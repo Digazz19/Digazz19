@@ -45,25 +45,25 @@ I'm a Computer Engineering student at **Universidade do Minho**, passionate abou
 
 | Course | Repository |
 |---|---|
-| Laboratórios de Informática I | [🔗 Block Knight](https://github.com/Digazz19/block-knight-li1) |
-| Laboratórios de Informática II | [🔗 Stack Machine](https://github.com/Digazz19/stack-machine-li2) |
-| Laboratórios de Informática III | [🔗 Rides Data Manager](https://github.com/Digazz19/LI3-Project) |
-| Laboratórios de Informática IV | [🔗 UMusic](https://github.com/Digazz19/LI4) |
-| Investigação Operacional | [🔗 TPs](https://github.com/Digazz19/IO) |
-| Redes de Computadores | [🔗 TPs](https://github.com/Digazz19/RC) |
-| Bases de Dados | [🔗 Bookstore](https://github.com/Digazz19/bookstore-BD) |
-| Programação Orientada a Objetos | [🔗 Vinted](https://github.com/Digazz19/vintage-poo) |
-| Processamento de Linguagens | [🔗 Forth Compiler](https://github.com/Digazz19/PL-Project) |
-| Sistemas Operativos | [🔗 System Monitor](https://github.com/Digazz19/system-monitor-so) |
-| Segurança de Sistemas Informáticos | [🔗 TPs](https://github.com/Digazz19/SSI) |
-| Interface Pessoa-Máquina | [🔗 Vue.js Website](https://github.com/Digazz19/IPM) |
-| Comunicações por Computador | [🔗 TPs](https://github.com/Digazz19/CC) |
-| Desenvolvimento de Sistemas de Software | [🔗 Gas Station Management](https://github.com/Digazz19/DSS) |
-| Inteligência Artificial | [🔗 Health Planet](https://github.com/Digazz19/IA) |
-| Sistemas Distribuídos | [🔗 Cloud Computing](https://github.com/Digazz19/SD) |
-| Computação Gráfica | [🔗 3D Rendering Engine](https://github.com/Digazz19/CG) |
-| Aprendizagem e Decisão Inteligentes | [🔗 KNIME Project](https://github.com/Digazz19/ADI) |
-| Engenharia Web | [🔗 Project & TPs](https://github.com/Digazz19/EngWeb2024) |
+| Laboratórios de Informática I | 🔗 [ Block Knight](https://github.com/Digazz19/block-knight-li1) |
+| Laboratórios de Informática II | 🔗 [ Stack Machine](https://github.com/Digazz19/stack-machine-li2) |
+| Laboratórios de Informática III | 🔗 [ Rides Data Manager](https://github.com/Digazz19/LI3-Project) |
+| Laboratórios de Informática IV | 🔗 [ UMusic](https://github.com/Digazz19/LI4) |
+| Investigação Operacional | 🔗 [ TPs](https://github.com/Digazz19/IO) |
+| Redes de Computadores | 🔗 [ TPs](https://github.com/Digazz19/RC) |
+| Bases de Dados | 🔗 [ Bookstore](https://github.com/Digazz19/bookstore-BD) |
+| Programação Orientada a Objetos | 🔗 [ Vinted](https://github.com/Digazz19/vintage-poo) |
+| Processamento de Linguagens | 🔗 [ Forth Compiler](https://github.com/Digazz19/PL-Project) |
+| Sistemas Operativos | 🔗 [ System Monitor](https://github.com/Digazz19/system-monitor-so) |
+| Segurança de Sistemas Informáticos | 🔗 [ TPs](https://github.com/Digazz19/SSI) |
+| Interface Pessoa-Máquina | 🔗 [ Vue.js Website](https://github.com/Digazz19/IPM) |
+| Comunicações por Computador | 🔗 [ TPs](https://github.com/Digazz19/CC) |
+| Desenvolvimento de Sistemas de Software | 🔗 [ Gas Station Management](https://github.com/Digazz19/DSS) |
+| Inteligência Artificial | 🔗 [ Health Planet](https://github.com/Digazz19/IA) |
+| Sistemas Distribuídos | 🔗 [ Cloud Computing](https://github.com/Digazz19/SD) |
+| Computação Gráfica | 🔗 [ 3D Rendering Engine](https://github.com/Digazz19/CG) |
+| Aprendizagem e Decisão Inteligentes | 🔗 [ KNIME Project](https://github.com/Digazz19/ADI) |
+| Engenharia Web | 🔗 [ Project & TPs](https://github.com/Digazz19/EngWeb2024) |
 
 ---
 
@@ -75,24 +75,24 @@ I'm a Computer Engineering student at **Universidade do Minho**, passionate abou
 
 | Course | Repository |
 |---|---|
-| Engenharia e Serviços de Rede | [🔗 OTT Streaming Service ](https://github.com/Digazz19/ESR) |
-| Dados e Aprendizagem Automática | [🔗 TPs ](https://github.com/Digazz19/DAA) |
-| Computação Paralela | [🔗 Fluid Simulation](https://github.com/Digazz19/CPar) |
-| Requisitos e Arquiteturas de Software | [🔗 PictuRAS ](https://github.com/Digazz19/RAS) |
+| Engenharia e Serviços de Rede | 🔗 [ OTT Streaming Service ](https://github.com/Digazz19/ESR) |
+| Dados e Aprendizagem Automática | 🔗 [ TPs ](https://github.com/Digazz19/DAA) |
+| Computação Paralela | 🔗 [ Fluid Simulation](https://github.com/Digazz19/CPar) |
+| Requisitos e Arquiteturas de Software | 🔗 [ PictuRAS ](https://github.com/Digazz19/RAS) |
 
 #### ⚡ Advanced Computing Profile
 
 | Course | Repository |
 |---|---|
-| Computação Heterogénea de Elevado Desempenho | [🔗 TPs](https://github.com/Digazz19/CHED) |
-| Sistemas de Armazenamento de Dados | [🔗 TPs ](https://github.com/Digazz19/SAD) |
-| Análise de Dados de Grande Dimensão | [🔗 TPs ](https://github.com/Digazz19/ADGD) |
+| Computação Heterogénea de Elevado Desempenho | 🔗 [ TPs](https://github.com/Digazz19/CHED) |
+| Sistemas de Armazenamento de Dados | 🔗 [ TPs ](https://github.com/Digazz19/SAD) |
+| Análise de Dados de Grande Dimensão | 🔗 [ TPs ](https://github.com/Digazz19/ADGD) |
 
 #### 🔤 Language Engineering Profile
 
 | Course | Repository |
 |---|---|
-| Engenharia Gramatical | [🔗 Static Source Code Analyser ](https://github.com/Digazz19/Static-Source-Code-Analyser) |
+| Engenharia Gramatical | 🔗 [ Static Source Code Analyser ](https://github.com/Digazz19/Static-Source-Code-Analyser) |
 | Projeto em Engenharia de Linguagens | Em Desenvolvimento |
-| Scripting no Processamento de Linguagem Natural | [🔗 TPs ](https://github.com/Digazz19/SPLN2526) |
-| Representação e Processamento de Conhecimento na Web | [🔗 TPs ](https://github.com/Digazz19/RPCW2026) |
+| Scripting no Processamento de Linguagem Natural | 🔗 [ TPs ](https://github.com/Digazz19/SPLN2526) |
+| Representação e Processamento de Conhecimento na Web | 🔗 [ TPs ](https://github.com/Digazz19/RPCW2026) |
