@@ -1,6 +1,6 @@
 # Hey, I'm Diogo 👋
 
-I'm a Computer Engineering student at **Universidade do Minho**, passionate about software development and always looking to learn something new.
+I'm a Software Engineering student at **Universidade do Minho**, passionate about software development and always looking to learn something new.
 
 ---
 
